@@ -20,7 +20,7 @@ Planning and Career
 
  4.17 네트워크 관리사  
 
-123
+
 # 공부 자료
 
 https://brunch.co.kr/@yudong/28         (프로그래밍 관련 심화, 기술 블로그)
