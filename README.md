@@ -1,3 +1,14 @@
+# ICT 융합 공모전 포트폴리오
+
+https://github.com/wodonggun/portfolio/blob/master/ICT%20%EC%9C%B5%ED%95%A9%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20(6%EB%8C%80%20%EB%B6%84%EC%95%BC%20%EC%82%AC%ED%9A%8C%ED%98%81%EC%8B%A0-%EA%B5%AD%EB%B0%A9).pdf
+
+
+
+
+
+
+
+
 # portfolio
 Planning and Career
 
